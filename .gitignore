@@ -1,0 +1,27 @@
+# Environment and configuration
+.env
+.env.local
+.env.profiles/
+
+# Logs
+run_*.log
+
+# Generated files
+script_input.xlsx
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
